@@ -1,4 +1,4 @@
 # Custom
 Custom PCB for gifting
-![PCB Top](docs/top.png)
-![PCB Bottom](docs/bot.png)
+![PCB Top](Paul/docs/top.png)
+![PCB Bottom](Paul/docs/bot.png)
